@@ -23,12 +23,14 @@ this is a paragraph
 3. item 3
 4. item 3a
 
-## Table
+## Table 
+
 | Command | Description |
 | ----- | ----- |
 | git add | Stage changed for commit |
 | git commit | record changes to the repository |
 | git push | upload local repository content to a remote repository |
+
 
 > _This is a quote_
 
