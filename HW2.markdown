@@ -4,7 +4,7 @@ title: HW2
 permalink: /HW2/
 ---
 
-# This is a heading
+## This is a heading
 ### This is a smaller heading
 this is a paragraph
 
@@ -21,7 +21,7 @@ this is a paragraph
 1. item 1
 2. item 2
 3. item 3
-4. itme 3a
+4. item 3a
 
 ## Table
 | Command | Description |
